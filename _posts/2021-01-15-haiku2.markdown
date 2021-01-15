@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Haiku #2"
+date:   2021-01-15 08:09:13 -0800
+categories:
+---
+Trapped in a doc with
+
+endless points of entry. Build
+
+works! What will break next?
+
+![Alice in Wonderland in a maze](https://media.giphy.com/media/ACLCA6bvwBEvC/giphy.gif)

@@ -9,3 +9,5 @@ Fixing CSS,
 I wonder if I’m being
 
 controlled by stylesheet.
+
+![Peter Griffin from "Family Guy" struggling with venetian blinds with a caption "CSS"](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
